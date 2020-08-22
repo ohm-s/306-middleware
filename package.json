@@ -1,6 +1,6 @@
 {
   "name": "306-middleware",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Commonly used express midlewares",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -43,7 +43,8 @@
     "typescript": "^3.9.7"
   },
   "tags": [
-    "Logging",
-    "JSON"
+    "Express",
+    "CORS",
+    "HTTP"
   ]
 }
