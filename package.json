@@ -1,5 +1,5 @@
 {
-  "name": "306-common-middleware",
+  "name": "306-middleware",
   "version": "1.0.0",
   "description": "Commonly used express midlewares",
   "main": "dist/index.js",
